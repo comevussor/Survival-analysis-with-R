@@ -1,7 +1,5 @@
 ---
 title: "Survival analysis of pbc dataset"
-author: "Marc Grossouvre"
-date: "04/05/2020"
 output: rmarkdown::github_document
 ---
 

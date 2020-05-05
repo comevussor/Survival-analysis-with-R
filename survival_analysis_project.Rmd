@@ -2,9 +2,7 @@
 title: "Survival analysis of pbc dataset"
 author: "Marc Grossouvre"
 date: "04/05/2020"
-output:
-  pdf_document: default
-papersize: a4
+output: rmarkdown::github_document
 ---
 
 # Data preparation
@@ -41,8 +39,7 @@ ast:	aspartate aminotransferase, once called SGOT (U/ml)
 bili:	serum bilirunbin (mg/dl)  
 chol:	serum cholesterol (mg/dl)  
 copper:	urine copper (ug/day)  
-edema:	0 no edema, 0.5 untreated or successfully treated  
-1 edema despite diuretic therapy  
+edema:	0 no edema, 0.5 untreated or successfully treated, 1 edema despite diuretic therapy  
 hepato:	presence of hepatomegaly or enlarged liver  
 id:	case number  
 platelet:	platelet count  

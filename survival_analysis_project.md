@@ -1,7 +1,5 @@
 Survival analysis of pbc dataset
 ================
-Marc Grossouvre
-04/05/2020
 
 # Data preparation
 
